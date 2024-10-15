@@ -1,0 +1,16 @@
+{
+    "name": "lamhotsimamora/uploadfile",
+    "description": "upload file or image in php",
+    "autoload": {
+        "psr-4": {
+            "Lamhotsimamora\\Uploadfile\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "lamhot1993",
+            "email": "lamhotsimamora36@gmail.com"
+        }
+    ],
+    "require": {}
+}
